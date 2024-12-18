@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "an32S+VKnBuCquXbaqpX+bT+6tpF1g0yXm7t4qjVhZk=",
+  "Source": "ASPNETRazorPages",
+  "BasePath": "_content/ASPNETRazorPages",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ASPNETRazorPages\\wwwroot",
+      "Source": "ASPNETRazorPages",
+      "ContentRoot": "D:\\GitHubRepository\\ASPNETRazorPages\\wwwroot\\",
+      "BasePath": "_content/ASPNETRazorPages",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}
